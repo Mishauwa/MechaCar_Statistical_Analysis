@@ -14,6 +14,7 @@ Part 4: Design a Study Comparing the MechaCar to the Competition
 
 In the MechaCar_mpg.csv dataset are test results for 50 prototype MechaCars. Multiple different metrics like vehicle length or vehicle weight are presented for each vehicle as variables. 
 
+<img width="534" alt="Deliverable 1" src="https://user-images.githubusercontent.com/69826498/206780600-89c6cf36-80fe-45b1-b1a6-52d335353497.png">
 
 ### Results
 
@@ -29,9 +30,11 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 - The suspension coil’s PSI continuous variable across all manufacturing lots.
 
+<img width="387" alt="Dev2_total" src="https://user-images.githubusercontent.com/69826498/206780647-d1ec5091-09ca-43dc-881f-b447955a8f43.png">
 
 - The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 
+<img width="516" alt="Dev2_Lot" src="https://user-images.githubusercontent.com/69826498/206780676-e02221a6-3ced-4a2d-89bb-b832853490f4.png">
 
 ### Results:
 
@@ -44,6 +47,7 @@ The MechaCar Suspension_Coil.csv dataset contains the results from multiple prod
 
 In the following section T-Tests are performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. 
 
+<img width="721" alt="Deliverable 3" src="https://user-images.githubusercontent.com/69826498/206780708-519eadce-9f6d-4304-a843-194877c52749.png">
 
 ### Results:
 
